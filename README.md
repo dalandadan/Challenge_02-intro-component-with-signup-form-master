@@ -25,7 +25,7 @@ Users should be able to:
 
 ![](screenshots/desktop-view-screenshot.png)
 ![](screenshots/mobile-view-screenshot.png)
-![](screenshots/action-view-screenshot.png)
+![](screenshots/active-view-screenshot.png)
 
 ### Links
 
